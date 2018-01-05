@@ -28,7 +28,7 @@ js实现微信直接跳转到支付宝APP打开口令领红包
 
 1.把jump-resource.js文件里面的qrUrl替换成自己的红包url
 
-2.复制 jump-resource.js里的代码，然后去https://tool.lu/js/做两次加密
+2.复制 jump-resource.js里的代码，然后去https://tool.lu/js/ 做两次加密
 
 3.加密内容覆盖粘贴到jump.js
 
